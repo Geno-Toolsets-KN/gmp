@@ -1,0 +1,5 @@
+headers.linux = "/usr/include/gmp.h"
+libraryPaths.linux = "/usr/lib/libgmp.so"
+#headers.mingw = "C:\MinGW\include\gmp.h"
+#libraryPaths.mingw = "C:\MinGW\lib\libgmp.a" "C:\MinGW\lib\libgmp.dll.a"
+linkerOpts = -lgmp
