@@ -1,1 +1,1 @@
-rootProject.name = "gmp-binding"
+rootProject.name = "gmp"
